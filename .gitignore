@@ -1,0 +1,170 @@
+/Machine Learning and AI in Power BI/Exercises/Exercises_Solution/1. Regresion.pbix
+/Machine Learning and AI in Power BI/1. Regresion_sklearn.pbix
+/reinforcement/test_cases/q2/1-bridge-grid.solution
+/reinforcement/test_cases/q2/1-bridge-grid.test
+/reinforcement/test_cases/q3/1-question-3.1.solution
+/reinforcement/test_cases/q3/1-question-3.1.test
+/reinforcement/test_cases/q1/1-tinygrid.solution
+/reinforcement/test_cases/q4/1-tinygrid.solution
+/reinforcement/test_cases/q5/1-tinygrid.solution
+/reinforcement/test_cases/q8/1-tinygrid.solution
+/reinforcement/test_cases/q1/1-tinygrid.test
+/reinforcement/test_cases/q4/1-tinygrid.test
+/reinforcement/test_cases/q5/1-tinygrid.test
+/reinforcement/test_cases/q8/1-tinygrid.test
+/Machine Learning and AI in Power BI/Exercises/Exercises_Solution/2. Clasification.pbix
+/Machine Learning and AI in Power BI/2. Regresion.pbix
+/reinforcement/test_cases/q3/2-question-3.2.solution
+/reinforcement/test_cases/q3/2-question-3.2.test
+/reinforcement/test_cases/q1/2-tinygrid-noisy.solution
+/reinforcement/test_cases/q4/2-tinygrid-noisy.solution
+/reinforcement/test_cases/q5/2-tinygrid-noisy.solution
+/reinforcement/test_cases/q8/2-tinygrid-noisy.solution
+/reinforcement/test_cases/q1/2-tinygrid-noisy.test
+/reinforcement/test_cases/q4/2-tinygrid-noisy.test
+/reinforcement/test_cases/q5/2-tinygrid-noisy.test
+/reinforcement/test_cases/q8/2-tinygrid-noisy.test
+/Machine Learning and AI in Power BI/3. Clasification_basic.pbix
+/Machine Learning and AI in Power BI/Exercises/Exercises_Solution/3. Clustering.pbix
+/Machine Learning and AI in Power BI/3.1. Clasification_advance.pbix
+/reinforcement/test_cases/q1/3-bridge.solution
+/reinforcement/test_cases/q4/3-bridge.solution
+/reinforcement/test_cases/q5/3-bridge.solution
+/reinforcement/test_cases/q8/3-bridge.solution
+/reinforcement/test_cases/q1/3-bridge.test
+/reinforcement/test_cases/q4/3-bridge.test
+/reinforcement/test_cases/q5/3-bridge.test
+/reinforcement/test_cases/q8/3-bridge.test
+/reinforcement/test_cases/q3/3-question-3.3.solution
+/reinforcement/test_cases/q3/3-question-3.3.test
+/Machine Learning and AI in Power BI/4. Clustering.pbix
+/reinforcement/test_cases/q1/4-discountgrid.solution
+/reinforcement/test_cases/q4/4-discountgrid.solution
+/reinforcement/test_cases/q5/4-discountgrid.solution
+/reinforcement/test_cases/q8/4-discountgrid.solution
+/reinforcement/test_cases/q1/4-discountgrid.test
+/reinforcement/test_cases/q4/4-discountgrid.test
+/reinforcement/test_cases/q5/4-discountgrid.test
+/reinforcement/test_cases/q8/4-discountgrid.test
+/reinforcement/test_cases/q3/4-question-3.4.solution
+/reinforcement/test_cases/q3/4-question-3.4.test
+/reinforcement/test_cases/q8/5-coord-extractor.solution
+/reinforcement/test_cases/q8/5-coord-extractor.test
+/reinforcement/test_cases/q3/5-question-3.5.solution
+/reinforcement/test_cases/q3/5-question-3.5.test
+/Self_Driving_Car_Updated/ai.py
+/reinforcement/analysis.py
+/reinforcement/autograder.py
+/Artificial Intelligence Charts/Exercises/data/Backorden Percentage.csv
+/Machine Learning and AI in Power BI/dataset/blood.csv
+/Machine Learning and AI in Power BI/dataset/cancer_pred.csv
+/Machine Learning and AI in Power BI/Exercises/cancer_pred.csv
+/reinforcement/layouts/capsuleClassic.lay
+/Self_Driving_Car_Updated/car.kv
+/Introduction to Power BI/Data/Channel.csv
+/Introduction to Power BI/Exercises/Data/Channel.csv
+/Machine Learning and AI in Power BI/dataset/clustering.csv
+/Machine Learning and AI in Power BI/notebooks/clustering.csv
+/Machine Learning and AI in Power BI/notebooks/Clustering.ipynb
+/Machine Learning and AI in Power BI/dataset/clustering2.csv
+/reinforcement/test_cases/q1/CONFIG
+/reinforcement/test_cases/q2/CONFIG
+/reinforcement/test_cases/q3/CONFIG
+/reinforcement/test_cases/q4/CONFIG
+/reinforcement/test_cases/q5/CONFIG
+/reinforcement/test_cases/q6/CONFIG
+/reinforcement/test_cases/q7/CONFIG
+/reinforcement/test_cases/q8/CONFIG
+/reinforcement/test_cases/CONFIG
+/reinforcement/layouts/contestClassic.lay
+/Machine Learning and AI in Power BI/Exercises/Exercises_Solution/Cooks Distance.png
+/reinforcement/crawler.py
+/Introduction to Power BI/Dashboard_Retail.pbix
+/Data Analytics with Python in Power BI/Data analytics with Python.pbix
+/Data Analytics with Python in Power BI/Data Analytics with Seaborn.ipynb
+/Introduction to Power BI/Dax Reference Cheat Sheet.pbix
+/db.py
+/Introduction to Power BI/Data/District.csv
+/reinforcement/environment.py
+/Introduction to Power BI/Exercises/Solution/Exercise_Soluciton_Contoso PowerBi.pbix
+/Machine Learning and AI in Power BI/Exercises/Exercises_Solution/Exercise_Solution_Regresion.ipynb
+/Artificial Intelligence Charts/Exercises_Artificial Intelligence Charts.pdf
+/Artificial Intelligence Charts/Exercises/Solution/Exercises_Solution_Supply Chain.pbix
+/Artificial Intelligence Charts/Exercises/Exercises_Supply Chain.pbix
+/exercism.py
+/Artificial Intelligence Charts/Exercises/data/Explanations.csv
+/Machine Learning and AI in Power BI/notebooks/Feature Importance.png
+/reinforcement/featureExtractors.py
+/Machine Learning and AI in Power BI/notebooks/Final RF Model 11Nov2020.pkl
+/reinforcement/game.py
+/Introduction to Power BI/Exercises/Data/Geography.csv
+/reinforcement/ghostAgents.py
+/reinforcement/test_cases/q6/grade-agent.solution
+/reinforcement/test_cases/q7/grade-agent.solution
+/reinforcement/test_cases/q6/grade-agent.test
+/reinforcement/test_cases/q7/grade-agent.test
+/reinforcement/grading.py
+/reinforcement/graphicsCrawlerDisplay.py
+/reinforcement/graphicsDisplay.py
+/reinforcement/graphicsGridworldDisplay.py
+/reinforcement/graphicsUtils.py
+/reinforcement/gridworld.py
+/Data Analytics with Python in Power BI/Data/insurance.csv
+/Introduction to Power BI/Data/Item.csv
+/reinforcement/keyboardAgents.py
+/reinforcement/layout.py
+/Machine Learning and AI in Power BI/Exercises/Exercises_Solution/Learning Curve.png
+/reinforcement/learningAgents.py
+/Self_Driving_Car_Updated/map.py
+/Self_Driving_Car_Updated/map_commented.py
+/reinforcement/mdp.py
+/reinforcement/layouts/mediumClassic.lay
+/reinforcement/layouts/mediumGrid.lay
+/reinforcement/layouts/minimaxClassic.lay
+/Artificial Intelligence Charts/Exercises/data/Month.csv
+/nginx.bkp.conf
+/nginx.conf
+/reinforcement/layouts/openClassic.lay
+/reinforcement/layouts/originalClassic.lay
+/reinforcement/pacman.py
+/reinforcement/pacmanAgents.py
+/Data Analytics with Python in Power BI/Data/Pokemon.csv
+/Machine Learning and AI in Power BI/notebooks/Prediction Error.png
+/Introduction to Power BI/Exercises/Data/Product.csv
+/Introduction to Power BI/Exercises/Data/ProductCategory.csv
+/Introduction to Power BI/Exercises/Data/ProductSubcategory.csv
+/reinforcement/projectParams.py
+/Introduction to Power BI/Exercises/Data/Promotion.csv
+/Machine Learning and AI in Power BI/notebooks/Pycaret Fundamentals.ipynb
+/reinforcement/qlearningAgents.py
+/Machine Learning and AI in Power BI/Exercises/Exercises_Solution/regresion_best_model_ejercicio.pkl
+/Machine Learning and AI in Power BI/notebooks/Regresion_ML model creation.ipynb
+/reinforcement/reinforcementTestClasses.py
+/Self_Driving_Car_Updated/requirements.txt
+/Machine Learning and AI in Power BI/Exercises/Exercises_Solution/Residuals.png
+/Machine Learning and AI in Power BI/notebooks/Residuals.png
+/Artificial Intelligence Charts/Exercises/data/Risk.csv
+/Self_Driving_Car_Updated/run.sh
+/Machine Learning and AI in Power BI/dataset/salary.xlsx
+/Artificial Intelligence Charts/Exercises/data/Sales.csv
+/Introduction to Power BI/Data/Sales.csv
+/Introduction to Power BI/Exercises/Data/Sales.csv
+/Artificial Intelligence Charts/Sales Analytics.pbix
+/reinforcement/layouts/smallClassic.lay
+/reinforcement/layouts/smallGrid.lay
+/Self_Driving_Car_Updated/specifications
+/Introduction to Power BI/Data/Store.csv
+/Introduction to Power BI/Exercises/Data/Stores.csv
+/Artificial Intelligence Charts/Exercises/data/Supply Analytics.csv
+/reinforcement/testClasses.py
+/reinforcement/layouts/testClassic.lay
+/reinforcement/testParser.py
+/reinforcement/textDisplay.py
+/reinforcement/textGridworldDisplay.py
+/reinforcement/layouts/trappedClassic.lay
+/reinforcement/layouts/trickyClassic.lay
+/Data Analytics with Python in Power BI/Use Case_Boston Houses.pbix
+/reinforcement/util.py
+/reinforcement/valueIterationAgents.py
+/reinforcement/VERSION
+/Machine Learning and AI in Power BI/Exercises/Exercises_Solution/xgboost_cancer.pkl
