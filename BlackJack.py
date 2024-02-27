@@ -6,7 +6,7 @@ def take_bet(player_chips):
         try:
             bet = int(input("Make your bet: "))
             if bet > player_chips.total:
-                print("You don't have enough chips! Try again.")
+                print(f"You don't have enough chips! You have {player_chips.total} chips. Try again.")
             else:
                 player_chips.bet = bet
                 break
