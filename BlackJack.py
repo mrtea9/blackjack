@@ -1,7 +1,5 @@
 from test import Deck, Hand, Chips
 
-playing = True
-
 
 def take_bet(player_chips):
     while True:
